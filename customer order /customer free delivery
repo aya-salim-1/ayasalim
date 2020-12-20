@@ -1,0 +1,3 @@
+read customer,product id ,customer id 
+price product id*customer id 
+print price 
